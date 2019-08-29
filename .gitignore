@@ -1,0 +1,6 @@
+.idea/
+old/
+__pycache__/
+*.db
+config.py
+*.pyc
