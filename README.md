@@ -6,7 +6,7 @@ allows you to update and close tickets as well as close tickets order than X day
 ## Setup
 - Create a config.py file
 - Create dictionaries for the ServiceNow instance, the database path, and email
-
+- Run pip install -r requirements.txt to install dependencies
 ## Run
 You can run it using python ./service-now-app.py
 
